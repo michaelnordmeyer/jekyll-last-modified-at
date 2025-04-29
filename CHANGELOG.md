@@ -1,3 +1,5 @@
+# [v1.3.2] - 29-04-2025
+**Full Changelog**: https://github.com/michaelnordmeyer/jekyll-last-modified-at/commits/v1.3.2
 # [v1.3.2] - 04-06-2024
 ## What's Changed
 * Modernize project by @gjtorikian in https://github.com/gjtorikian/jekyll-last-modified-at/pull/99
